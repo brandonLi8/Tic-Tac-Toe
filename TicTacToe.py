@@ -1,5 +1,6 @@
 from tkinter import * 
 import math, random, time, copy
+
 def init(data):
   #set up dimensions
   data.rows,data.cols,data.width,data.height,data.margin = 3,3 ,520,600,20# tix tac toe board is 3x3,set up width of animation and the margin between the board and the edge
