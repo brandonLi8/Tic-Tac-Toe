@@ -1,6 +1,6 @@
 Tic Tac Toe
 =======
-By Brandon Li
+By Brandon Li, done completely in tkinter
 ## features
 - ai system
 - scores
