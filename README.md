@@ -15,5 +15,5 @@ By Brandon Li, done completely in tkinter
 1. download into file
 2. open TicTacToe.py and save it into the folder 
 3. run TicTacToe.py
-
-
+## credit
+- credit to David Kosbie for the run function
