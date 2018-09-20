@@ -80,7 +80,7 @@ def keyPressed(event, data):#restart and helpmode
 def timerFired(data): #this function could be done better
   if (data.clicked): #you only want to count after you've clicked
       data.delayToDrawO += 1
-  if (data.delayToDrawO == 10): 
+  if (data.delayToDrawO == 5): 
       data.drawO = True
   if (inarow(data,data.xCenters)): #you only want to count after win
     data.xWinsCount += 1
